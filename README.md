@@ -1,4 +1,5 @@
 # Web-Crawler-Analysis
+We would basically build a crawler for IMDB and RottenTomatoes sites. 
 For each attribute X in S,we consider only Table A and discuss the following in the report: 
 Basically we use jupyter notebook to analyze the data. We use package such as Panda and Matplotlib.
 
